@@ -1,4 +1,4 @@
 R
 =
 
-something about R
+some things about R
